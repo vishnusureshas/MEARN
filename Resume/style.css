@@ -1,0 +1,27 @@
+#title{
+    background-color: blueviolet;
+    color:aliceblue;
+    text-align: center;
+}
+.content{
+    color: black;
+    text-align: left;
+}
+.content{
+    color:black;
+    text-align: left;
+}
+.content{
+    color: black;
+    text-align:left;
+}
+.right-para1{
+    text-align: right;
+   margin-top:0px;
+   padding-bottom: 300px;
+}
+.box2{
+    width: 50%;
+    height: 50%;
+}
+    
